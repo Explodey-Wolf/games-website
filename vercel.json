@@ -9,7 +9,7 @@
         },
         {
           "key": "Cross-Origin-Opener-Policy",
-          "value": "same-origin"
+          "value": "credentialless"
         },
         {"key": "Access-Control-Allow-Origin", "value": "*"}
       ]
