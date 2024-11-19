@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/.*",
+      "source": "/:_(.*)",
       "headers": [
         {
           "key": "Cross-Origin-Resource-Policy",
